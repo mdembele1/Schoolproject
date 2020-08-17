@@ -33,11 +33,15 @@ public class BmiCalculator {
 		
 		double square= Math.sqrt(height);
 		
+		
 		double bmi= ( weight/square);
 		
 		System.out.println("Your BMI is " +bmi);
 		
 		input.close();
+		
+		
+		//bmi=
 	}
 
 }

@@ -1,6 +1,6 @@
 package com.classroom;
 
-public class AllAboutMe {
+public class Me {
 
 	public static void main(String[] args) {
 //		All about me
@@ -63,7 +63,7 @@ public class AllAboutMe {
 //		3. Change the values to match your info. Your name might not be "Shahparan", so change it!
 //		4. Create a new variable that converts your height to centimeters. Make your program to the math!
 
-		
+
 	}
 
 }

@@ -2,7 +2,7 @@ package com.classroom;
 
 import java.util.Scanner;
 
-public class AgeInFiveYears {
+public class Age {
 
 	public static void main(String[] args) {
 //		 Age in Five Years
@@ -34,6 +34,7 @@ public class AgeInFiveYears {
 		System.out.println(" Did you know that in five years you will be " + (age+5) + " years old? And five years ago you were  " + (age-5) +" !Imagine that!");
 
 	input.close();
+
 	}
 
 }
